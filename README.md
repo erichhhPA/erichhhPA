@@ -11,7 +11,7 @@ Sou um estudante apaixonado por tecnologia, atualmente cursando Ciência da Comp
 - 🤝 Buscando colaboração em: **Projetos Open Source e trabalhos Freelance**
 - ⚡ Curiosidade: **Sou muito fã de esportes no geral, principalmente futebol**
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas 
 *Aqui estão algumas das tecnologias que venho estudando e utilizando nos meus projetos:*
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
