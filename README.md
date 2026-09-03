@@ -26,6 +26,6 @@ Sou um estudante apaixonado por tecnologia, atualmente cursando Ciência da Comp
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erichhhPA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erichhhPA&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erichhhPA&show_icons=true&theme=dracula&include_all_commits=true&v=1"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erichhhPA&layout=compact&langs_count=7&theme=dracula&v=1"/>
 </div>
