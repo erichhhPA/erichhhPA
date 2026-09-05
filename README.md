@@ -1,7 +1,7 @@
 
 # Opa! Eu sou Erich 👋
 
-🎓 **Estudante de Ciência da Computação** | 💻 **Desenvolvedor Freelancer**
+🎓 **Estudante de Ciência da Computação** | 
 
 Sou um estudante apaixonado por tecnologia, atualmente cursando Ciência da Computação na UFV. Gosto de resolver problemas, automatizar tarefas e estou sempre em busca de aprender novas ferramentas. Atualmente, estou disponível para trabalhos como freelancer e novos projetos!
 
